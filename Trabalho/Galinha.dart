@@ -4,7 +4,7 @@ class Galinha extends Animal{
 
   @override
   void fazerSom(){
-    print("Pó,Pó");
+    print(" A galinha faz: Pó,Pó");
   }
-  
+
 }
